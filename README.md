@@ -1,4 +1,4 @@
-# Dripping_blues_01
+# Dripping_blues Machine From Vulnhub.com
 **Dripping blues linux privilege escalation**
 
 ---
